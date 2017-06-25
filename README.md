@@ -1,3 +1,6 @@
+[![license](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/radovankavicky/PyDataBerlin2017/blob/master/LICENSE)
+![Python 3.5](https://img.shields.io/badge/python-3.5-blue.svg)
+
 # PyData Berlin 2017 Radovan Kavický
 ## Data Science & Data Visualization in Python. How to harness power of Python for social good?
 
