@@ -4,7 +4,7 @@
 # PyData Berlin 2017 Radovan Kavický
 ## Data Science & Data Visualization in Python. How to harness power of Python for social good?
 
-I gave a [talk](https://pydata.org/berlin2017/schedule/presentation/6/) on Sunday (July 2) at the 2017 [PyData Conference](https://pydata.org/berlin2017/schedule/) in Berlin, Germany. My topic was on Data Science & Data Visualization in Python. How to harness power of Python for social good? This repo contains the code from that talk.
+I gave a [talk](https://pydata.org/berlin2017/schedule/presentation/6/) on Saturday (July 1st) at the 2017 [PyData Conference](https://pydata.org/berlin2017/schedule/) in Berlin, Germany. My topic was on Data Science & Data Visualization in Python. How to harness power of Python for social good? This repo contains the code from that talk.
 
 Python as an Open Data Science tool offers many libraries for data visualization and I will show you how to use and combine the best. I strongly believe that power of data is not only in the information & insight that data can provide us, Data is and can be really beautiful and can not only transform our perception but also the world that we all live in.
 
@@ -24,4 +24,4 @@ More details including video of the talk can be found on my accompanying [blog p
 
 Issue and pull requests welcome!
 
-Contact: radovan.kavicky(at)gapdata.org 
+Contact: radovan.kavicky@gapdata.org, +421 949 716 214 
