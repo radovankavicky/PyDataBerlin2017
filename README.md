@@ -13,8 +13,8 @@ Python as an Open Data Science tool offers many libraries for data visualization
 In my talk I primarily focused on answering/offered the answer to these questions: <br />
 • Why we need data science and why more and more people should be really interested in analyzing data and data visualization? (motivation) <br />
 • What is Data Science and how to start doing it in Python? (introduction of procedures, tools, most popular IDE-s for Python, etc.) <br />
-• What tools for data analysis and data visualization Python offers? (in each stage of analysis the best libraries will be shown for the specific purpose; as for data visualization we will focus particularly on Bokeh, Seaborn, Plotly and use of Jupyter Notebook and Plotly) <br />
-• How to "unlock" the insights hidden in data through Python and how to use it to transform not only public administration or business, but ultimately the transformation of the whole society and economy towards the insight & knowledge based? (potential of data science) <br />
+• What tools for data analysis and data visualization Python offers? (in each stage of analysis the best libraries will be shown for the specific purpose; as for data visualization we will focus particularly on Bokeh, Seaborn, Plotly and Jupyter Notebook) <br />
+• How to "unlock" the insights hidden in data through Python and how to use it to transform not only public administration or business, but ultimately the transformation of the whole society and economy towards the insight & knowledge based? (potential of Data science) <br />
 • Open Data, Open Government Partnership, Open Public Administration & all the advantages of Open Data Science & Python. Data-Driven Approach. Everywhere. Now. (the end of talk +vision) <br />
 
 
