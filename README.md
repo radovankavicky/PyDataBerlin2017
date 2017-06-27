@@ -24,4 +24,4 @@ More details including video of the talk can be found on my accompanying [blog p
 
 Issue and pull requests welcome!
 
-Contact: radovan.kavicky@gapdata.org, +421 949 716 214 
+f2bb : radovan.kavicky@gapdata.org, +421 949 716 214 
