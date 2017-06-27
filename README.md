@@ -26,5 +26,3 @@ Issue and pull requests welcome!
 
 Contact : radovan.kavicky@gapdata.org / radovan.kavicky@gmail.com, +421 949 716 214 (SK), +420 777 595 262 (CZ)
 
-<i class="fa fa-address-card" aria-hidden="true"></i>
-
